@@ -63,3 +63,5 @@ Feedbacks e sugestões são bem-vindos.
 
 - GitHub: (https://github.com/kewynmorais)
 - LinkedIn: (https://www.linkedin.com/in/kewyn.morais)
+
+**READ.ME gerado por IA**
